@@ -1,0 +1,17 @@
+.card-con {
+  display: flex;
+  flex-direction: column;
+  margin-right: 14px;
+}
+
+.img {
+  height: 150px;
+  width: 150px;
+  border-radius: 9px;
+}
+
+.desti-name {
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #252627;
+}

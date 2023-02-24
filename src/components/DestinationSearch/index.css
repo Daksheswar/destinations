@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin-bottom: 12px;
+}
+
+.head {
+  font-family: 'Roboto';
+  font-size: 32px;
+  font-weight: 800;
+  color: #0f172a;
+}
+
+.destinationsList-con {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 10px;
+  justify-content: center;
+}
